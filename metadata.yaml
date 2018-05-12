@@ -1,0 +1,30 @@
+_repo: An-Essay-Toward-a-History-of-Shakespeare-in-Norway_16416
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruud, Martin B. (Martin Bronn)
+    aliases:
+    - Ruud, Martin Bronn
+    - Ruud, Martin Brown
+    birthdate: 1885
+    deathdate: 1941
+    gutenberg_agent_id: '6689'
+    url: http://www.gutenberg.org/2009/agents/6689
+description: ''
+gutenberg_issued: '2005-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Translations into Norwegian'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stage history -- Norway'
+- !lcc 'PR'
+title: An Essay Toward a History of Shakespeare in Norway
+url: http://www.gutenberg.org/ebooks/16416
